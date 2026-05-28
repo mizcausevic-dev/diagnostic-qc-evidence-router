@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="860" viewBox="0 0 1400 860">
+    <rect width="1400" height="860" fill="#070a0f"/>
+    <rect x="28" y="28" width="1344" height="804" rx="30" fill="#0a1426" stroke="rgba(120,255,170,.18)"/>
+    <rect x="58" y="58" width="1284" height="110" rx="24" fill="#0b1220" stroke="rgba(120,255,170,.12)"/>
+    <text x="94" y="96" fill="#37ff8b" font-size="14" font-weight="700" font-family="Consolas, monospace">
+<tspan x="94" dy="0">DIAGNOSTIC QC EVIDENCE ROUTER</tspan>
+</text>
+    <text x="94" y="140" fill="#f5f7ff" font-size="38" font-weight="700" font-family="Georgia, serif">
+<tspan x="94" dy="0">Diagnostic QC Evidence</tspan>
+<tspan x="94" dy="47">Router</tspan>
+</text>
+    <text x="94" y="188" fill="#b8c6db" font-size="18" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="94" dy="0">C# control plane for diagnostics evidence continuity, calibration freshness, telemetry</tspan>
+<tspan x="94" dy="22">replay, and release signoff posture.</tspan>
+</text>
+    
+    <rect x="58" y="206" width="306" height="154" rx="22" fill="#0b1220" stroke="rgba(120,255,170,.12)"/>
+    <text x="88" y="274" fill="#19c7ff" font-size="50" font-weight="700" font-family="Inter,Segoe UI,Arial">
+<tspan x="88" dy="0">2</tspan>
+</text>
+    <text x="88" y="316" fill="#b8c6db" font-size="16" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="88" dy="0">diagnostic snapshots</tspan>
+<tspan x="88" dy="20">one current bundle</tspan>
+</text>
+
+    <rect x="382" y="206" width="306" height="154" rx="22" fill="#0b1220" stroke="rgba(120,255,170,.12)"/>
+    <text x="412" y="274" fill="#b88cff" font-size="50" font-weight="700" font-family="Inter,Segoe UI,Arial">
+<tspan x="412" dy="0">6</tspan>
+</text>
+    <text x="412" y="316" fill="#b8c6db" font-size="16" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="412" dy="0">qc gaps</tspan>
+<tspan x="412" dy="20">4 blocking release issues</tspan>
+</text>
+
+    <rect x="706" y="206" width="306" height="154" rx="22" fill="#0b1220" stroke="rgba(120,255,170,.12)"/>
+    <text x="736" y="274" fill="#ffcc66" font-size="50" font-weight="700" font-family="Inter,Segoe UI,Arial">
+<tspan x="736" dy="0">4</tspan>
+</text>
+    <text x="736" y="316" fill="#b8c6db" font-size="16" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="736" dy="0">evidence risks</tspan>
+<tspan x="736" dy="20">telemetry and packet continuity</tspan>
+</text>
+
+    <rect x="1030" y="206" width="312" height="154" rx="22" fill="#0b1220" stroke="rgba(120,255,170,.12)"/>
+    <text x="1060" y="274" fill="#37ff8b" font-size="40" font-weight="700" font-family="Inter,Segoe UI,Arial">
+<tspan x="1060" dy="0">Embedded</tspan>
+</text>
+    <text x="1060" y="316" fill="#b8c6db" font-size="16" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="1060" dy="0">hosted preview planned</tspan>
+<tspan x="1060" dy="20">delivery by engagement</tspan>
+</text>
+
+    
+    <rect x="58" y="392" width="620" height="390" rx="20" fill="#0b1220" stroke="rgba(120,255,170,.18)" />
+    <text x="86" y="428" fill="#19c7ff" font-size="12" font-weight="700" font-family="Consolas, monospace">
+<tspan x="86" dy="0">EVIDENCE CONTINUITY STAYS VISIBLE BEFORE RELEASE</tspan>
+</text>
+    <text x="86" y="474" fill="#f5f7ff" font-size="30" font-weight="700" font-family="Georgia, serif">
+<tspan x="86" dy="0">Evidence continuity</tspan>
+<tspan x="86" dy="37">stays visible before</tspan>
+<tspan x="86" dy="37">release</tspan>
+</text>
+    <text x="86" y="524" fill="#b8c6db" font-size="16" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="86" dy="0">Assay publication, review signoff,</tspan>
+<tspan x="86" dy="20">calibration drift, and telemetry</tspan>
+<tspan x="86" dy="20">replay risk sit on the same</tspan>
+<tspan x="86" dy="20">surface so diagnostics teams can</tspan>
+<tspan x="86" dy="20">fix evidence posture before</tspan>
+<tspan x="86" dy="20">downstream release pressure wins.</tspan>
+</text>
+    
+    
+    <rect x="708" y="392" width="634" height="390" rx="20" fill="#0b1220" stroke="rgba(120,255,170,.18)" />
+    <text x="736" y="428" fill="#37ff8b" font-size="12" font-weight="700" font-family="Consolas, monospace">
+<tspan x="736" dy="0">BLOCKING GAPS ARE ROUTED BY OWNER AND SUBJECT</tspan>
+</text>
+    <text x="736" y="474" fill="#f5f7ff" font-size="30" font-weight="700" font-family="Georgia, serif">
+<tspan x="736" dy="0">Blocking gaps are</tspan>
+<tspan x="736" dy="37">routed by owner and</tspan>
+<tspan x="736" dy="37">subject</tspan>
+</text>
+    <text x="736" y="524" fill="#b8c6db" font-size="16" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="736" dy="0">Clinical Quality, Diagnostics</tspan>
+<tspan x="736" dy="20">Operations, and Lab QA each get</tspan>
+<tspan x="736" dy="20">visible routing pressure with</tspan>
+<tspan x="736" dy="20">synthetic packets that show stale</tspan>
+<tspan x="736" dy="20">calibration, release packet gaps,</tspan>
+<tspan x="736" dy="20">and evidence continuity breaks</tspan>
+<tspan x="736" dy="20">without using live patient or lab</tspan>
+<tspan x="736" dy="20">secrets.</tspan>
+</text>
+    
+    
+    </svg>

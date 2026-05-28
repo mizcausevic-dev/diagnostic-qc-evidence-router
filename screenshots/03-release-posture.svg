@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="860" viewBox="0 0 1400 860">
+    <rect width="1400" height="860" fill="#070a0f"/>
+    <rect x="28" y="28" width="1344" height="804" rx="30" fill="#0a1426" stroke="rgba(120,255,170,.18)"/>
+    <rect x="58" y="58" width="1284" height="110" rx="24" fill="#0b1220" stroke="rgba(120,255,170,.12)"/>
+    <text x="94" y="96" fill="#37ff8b" font-size="14" font-weight="700" font-family="Consolas, monospace">
+<tspan x="94" dy="0">RELEASE POSTURE</tspan>
+</text>
+    <text x="94" y="140" fill="#f5f7ff" font-size="38" font-weight="700" font-family="Georgia, serif">
+<tspan x="94" dy="0">Release Posture</tspan>
+</text>
+    <text x="94" y="188" fill="#b8c6db" font-size="18" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="94" dy="0">Packet readiness, blocker pressure, and the next release checkpoint stay readable for</tspan>
+<tspan x="94" dy="22">operators and buyers.</tspan>
+</text>
+    
+    
+    <rect x="58" y="206" width="402" height="256" rx="20" fill="#0b1220" stroke="rgba(120,255,170,.18)" />
+    <text x="86" y="242" fill="#ff5c7a" font-size="12" font-weight="700" font-family="Consolas, monospace">
+<tspan x="86" dy="0">DQC-12 · REVIEW PACKET</tspan>
+</text>
+    <text x="86" y="288" fill="#f5f7ff" font-size="30" font-weight="700" font-family="Georgia, serif">
+<tspan x="86" dy="0">DQC-12 · review</tspan>
+<tspan x="86" dy="37">packet</tspan>
+</text>
+    <text x="86" y="338" fill="#b8c6db" font-size="16" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="86" dy="0">56 percent complete. Release hold</tspan>
+<tspan x="86" dy="20">remains until scope, evidence, and</tspan>
+<tspan x="86" dy="20">review signatures reconcile.</tspan>
+</text>
+    
+    
+    <rect x="498" y="206" width="402" height="256" rx="20" fill="#0b1220" stroke="rgba(120,255,170,.18)" />
+    <text x="526" y="242" fill="#ffcc66" font-size="12" font-weight="700" font-family="Consolas, monospace">
+<tspan x="526" dy="0">DQC-18 · CALIBRATION PACKET</tspan>
+</text>
+    <text x="526" y="288" fill="#f5f7ff" font-size="30" font-weight="700" font-family="Georgia, serif">
+<tspan x="526" dy="0">DQC-18 · calibration</tspan>
+<tspan x="526" dy="37">packet</tspan>
+</text>
+    <text x="526" y="338" fill="#b8c6db" font-size="16" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="526" dy="0">74 percent complete. Freshness is</tspan>
+<tspan x="526" dy="20">recoverable if calibration and</tspan>
+<tspan x="526" dy="20">replay close inside the next</tspan>
+<tspan x="526" dy="20">cycle.</tspan>
+</text>
+    
+    
+    <rect x="938" y="206" width="404" height="256" rx="20" fill="#0b1220" stroke="rgba(120,255,170,.18)" />
+    <text x="966" y="242" fill="#37ff8b" font-size="12" font-weight="700" font-family="Consolas, monospace">
+<tspan x="966" dy="0">DQC-27 · TELEMETRY PACKET</tspan>
+</text>
+    <text x="966" y="288" fill="#f5f7ff" font-size="30" font-weight="700" font-family="Georgia, serif">
+<tspan x="966" dy="0">DQC-27 · telemetry</tspan>
+<tspan x="966" dy="37">packet</tspan>
+</text>
+    <text x="966" y="338" fill="#b8c6db" font-size="16" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="966" dy="0">95 percent complete. Safe for</tspan>
+<tspan x="966" dy="20">governed rollout once the</tspan>
+<tspan x="966" dy="20">remaining packet note is cleared.</tspan>
+</text>
+    
+    
+    <rect x="58" y="494" width="1284" height="288" rx="20" fill="#0b1220" stroke="rgba(120,255,170,.18)" />
+    <text x="86" y="530" fill="#19c7ff" font-size="12" font-weight="700" font-family="Consolas, monospace">
+<tspan x="86" dy="0">WHY THIS MONETIZES CLEANLY</tspan>
+</text>
+    <text x="86" y="576" fill="#f5f7ff" font-size="30" font-weight="700" font-family="Georgia, serif">
+<tspan x="86" dy="0">Why this monetizes</tspan>
+<tspan x="86" dy="37">cleanly</tspan>
+</text>
+    <text x="86" y="626" fill="#b8c6db" font-size="16" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="86" dy="0">Hosted preview planned gives the</tspan>
+<tspan x="86" dy="20">public lane. Paid templates can</tspan>
+<tspan x="86" dy="20">adapt packet families and QC</tspan>
+<tspan x="86" dy="20">owners. Embedded delivery fits</tspan>
+<tspan x="86" dy="20">regulated lab teams that need</tspan>
+<tspan x="86" dy="20">evidence routing and release</tspan>
+<tspan x="86" dy="20">posture inside their real assay</tspan>
+<tspan x="86" dy="20">workflow.</tspan>
+</text>
+    
+    
+    </svg>
