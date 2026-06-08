@@ -30,6 +30,25 @@ public static class RenderService
             <div class="src"><div class="src-name">monetization path</div><div class="src-tit">Hosted preview planned · Embedded by engagement</div><p>The free surface shows the operator model; the commercial path is an embedded evidence-routing module for regulated lab workflows.</p></div>
           </div>
         </section>
+        <section class="section">
+          <div class="sh"><h2>Board questions this answers</h2><div class="note">release exposure · evidence cost · lab investment</div></div>
+          <div class="stack">
+            <div class="src"><div class="src-name">exposure</div><div class="src-tit">Which assay releases are exposed to weak QC evidence?</div><p>Evidence continuity, calibration freshness, telemetry replay, variance review, and final release posture stay visible before result publication confidence is asserted.</p></div>
+            <div class="src"><div class="src-name">savings</div><div class="src-tit">Where is the lab paying a manual evidence tax?</div><p>The router collapses calibration artifacts, instrument telemetry, variance notes, and release attestations into one packet so QA does not reconstruct proof across systems.</p></div>
+            <div class="src"><div class="src-name">investment</div><div class="src-tit">Which diagnostics control should be strengthened first?</div><p>Blocking evidence gaps show whether calibration capture, telemetry replay, variance review, or release signoff deserves the next instrumentation pass.</p></div>
+          </div>
+        </section>
+        <section class="section">
+          <div class="sh"><h2>Evidence model</h2><div class="note">signal · proof · decision</div></div>
+          <table class="ttbl">
+            <thead><tr><th>Signal</th><th>Owner</th><th>Required proof</th><th>Decision supported</th></tr></thead>
+            <tbody>
+              <tr><td><b>Calibration freshness</b></td><td>Diagnostics Operations</td><td>Instrument ID, calibration window, operator, variance note</td><td>Release, retest, or block assay output</td></tr>
+              <tr><td><b>Telemetry continuity</b></td><td>Lab QA</td><td>Run log, missing sample window, replay status, repair owner</td><td>Trust, replay, or quarantine evidence</td></tr>
+              <tr><td><b>Release attestation</b></td><td>Clinical Quality</td><td>QC review, variance disposition, approver, publication memo</td><td>Publish result or require release-packet repair</td></tr>
+            </tbody>
+          </table>
+        </section>
         """
     );
 
